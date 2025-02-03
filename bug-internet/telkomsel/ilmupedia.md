@@ -1,4 +1,4 @@
-# 📕 TELKOMSEL
+# 🐞 ILMUPEDIA
 
 > **`Official` | `Paket MyTelkomsel`**
 

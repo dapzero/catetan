@@ -7,7 +7,8 @@
 * [📘 XL & AXIS](bug-internet/xl-and-axis/README.md)
   * [🐞 VIDIO](bug-internet/xl-and-axis/vidio.md)
   * [🐞 VIU](bug-internet/xl-and-axis/viu.md)
-* [📕 TELKOMSEL](bug-internet/telkomsel.md)
+* [📕 TELKOMSEL](bug-internet/telkomsel/README.md)
+  * [🐞 ILMUPEDIA](bug-internet/telkomsel/ilmupedia.md)
 * [🛠️ Metode Willcard](bug-internet/metode-willcard.md)
 * [🛠️ Metode Websocket](bug-internet/metode-websocket.md)
 
