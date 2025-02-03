@@ -1,2 +1,3 @@
-# catetan
+# 📑 README
+
 Just notes
