@@ -32,3 +32,5 @@
 * [📝 DNS Lain](lainnya/dns-lain.md)
 * [📝 NixOS Config](lainnya/nixos-config.md)
 * [📝 Tools](lainnya/tools.md)
+* [📝 Mikrotik](lainnya/mikrotik/README.md)
+  * [📌 Download & Pasang Certificates dari DNS Publik](lainnya/mikrotik/download-and-pasang-certificates-dari-dns-publik.md)
